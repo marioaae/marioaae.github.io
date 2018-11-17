@@ -16,13 +16,16 @@
 title: marioaae
 email: marioaae@chocomango.net
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is my journey as a Software Engineer and Full Stack Web Developer.
+  Documenting what I do for my future reference and making it public for
+  anybody who finds is usefull.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: marioaae
+github_username:  marioaae
+
+# Digital Marketing
+google_analytics: UA-129395882-1
 
 # Build settings
 markdown: kramdown
