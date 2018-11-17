@@ -21,8 +21,14 @@ paginate: 4
 paginate_path: "/page/:num/"
 comments: true
 
-source: source
-destination: _site
+# Where things are
+source              : .
+destination         : ./_site
+collections_dir     : .
+plugins_dir         : _plugins
+layouts_dir         : _layouts
+data_dir            : _data
+includes_dir        : _includes
 
 # Sass configuration
 sass:
@@ -58,4 +64,4 @@ navbar:
   - slug : blog
     title: Blog
 
-exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
+exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md", "vendor"]
