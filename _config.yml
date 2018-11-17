@@ -26,8 +26,8 @@ source              : ./source
 destination         : ./_site
 layouts_dir         : _layouts
 includes_dir        : _includes
-#sass:
-#    sass_dir        : ./_scss
+sass:
+    sass_dir        : assets/scss
 
 # Sass configuration
 sass:
