@@ -22,15 +22,12 @@ paginate_path: "/page/:num/"
 comments: true
 
 # Where things are
-source              : .
+source              : ./source
 destination         : ./_site
-collections_dir     : .
-plugins_dir         : _plugins
 layouts_dir         : _layouts
-data_dir            : _data
 includes_dir        : _includes
-sass:
-    sass_dir        : ./_scss
+#sass:
+#    sass_dir        : ./_scss
 
 # Sass configuration
 sass:
