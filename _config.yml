@@ -24,9 +24,6 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: marioaae
 github_username:  marioaae
 
-# Digital Marketing
-google_analytics: UA-129395882-1
-
 # Build settings
 markdown: kramdown
 theme: minima
@@ -44,3 +41,15 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Digital Marketing
+google_analytics: UA-129395882-1
+
+
+# Pages customization
+
+header_pages:
+  - about.md
+
+footer_pages:
+  - privacy-policy.md
