@@ -2,10 +2,8 @@
 layout: post
 title:  "Pros and Cons of Blogging with Jekyll"
 date:   2018-11-21 00:00:00 +0100
-categories: jekyll update
-
-author:
-  twitter: marioaae
+categories: [blog]
+tags: [jekyll, blogging, platform, github]
 ---
 
 I decided to start a technical blog to document and make public my journey into
