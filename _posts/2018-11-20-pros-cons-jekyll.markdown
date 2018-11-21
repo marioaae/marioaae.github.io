@@ -63,20 +63,3 @@ unless you get a paid subscription with GitHub.
 # Conclusion
 If you're a tech savvy person looking for a simple and lightweight technology for
 your blog or website, Jekyll is definitely worth a try.
-
-*Please leave your comments by responding to my Tweet:*
-
-<blockquote class="twitter-tweet" data-lang="en">
-  <p lang="en" dir="ltr">
-    I decided to start a technical blog to document and make public my journey
-    into building digital products with different technologies. I chose
-    <a href="https://twitter.com/jekyllrb?ref_src=twsrc%5Etfw">@jekyllrb</a>
-    as a blogging platform and decided to make my first post about pros and cons
-    of jekyll | <a href="https://t.co/wscHCpMCtV">https://t.co/wscHCpMCtV</a>
-  </p>&mdash; Mario Álvarez (@marioaae)
-  <a href="https://twitter.com/marioaae/status/1065026658439233536?ref_src=twsrc%5Etfw">
-    November 20, 2018
-  </a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8">
-</script>

@@ -46,6 +46,8 @@ plugins:
 
 # Digital Marketing
 google_analytics: UA-129395882-1
+disqus:
+    shortname: marioaae
 
 # Pages customization
 header_pages:
